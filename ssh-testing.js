@@ -1,3 +1,2 @@
 
-console.log("Checking Verified Badge")
-
+console.log("Final Checking Verified Badge")
