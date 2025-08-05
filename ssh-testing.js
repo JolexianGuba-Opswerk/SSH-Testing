@@ -1,1 +1,2 @@
-console.log("SSH Testing Script Started");
+
+console.log("Checking Verified Badge")
